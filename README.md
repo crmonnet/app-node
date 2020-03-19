@@ -4,3 +4,6 @@
 ```
 $ curl https://app-nodecrm.herokuapp.com/
 ```
+
+## Où êtes-vous ?
+Vous pouvez sélectionner votre ville et on vous la saluera !
